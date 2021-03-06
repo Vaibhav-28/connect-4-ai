@@ -1,6 +1,11 @@
 # connect-4-ai
 Connect the 4 game ai using minimax algo  
-Question: You are given a board consisting of 8 columns and 12 rows. At each
+  
+ Made for the following assignment question:  
+
+Question:  
+  
+You are given a board consisting of 8 columns and 12 rows. At each
 turn, one of the two players places his/her piece in a column. It will go into the
 first free row of that column. You can imagine placing the piece at the top of the
 column and having it float to the bottom.The goal of the game is to get four of
